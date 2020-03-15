@@ -1,2 +1,1 @@
-# hello-world
-for project
+Code Is Fun :)
